@@ -1,6 +1,6 @@
 public class Calculadora{
 	public static void main(String[] args){
-		if (args.length == 3) {
+		if (args.length == 4) {
 			try {
 				int op1 = Integer.parseInt(args[1]);
 				int op2 = Integer.parseInt(args[2]);
